@@ -1,0 +1,30 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Buy Lunch",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Buy Brunch",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "title": "Dinner Time",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "title": "3 o clock",
+            "completed": true
+        },
+        {
+            "id": 5,
+            "title": "Way out!",
+            "completed": false
+        }
+    ]
+}
+
